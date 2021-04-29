@@ -1,2 +1,4 @@
 # java_pong
-pong java code for students to use as an example
+
+This is another game where my intentions are to convert to HTML5.
+
